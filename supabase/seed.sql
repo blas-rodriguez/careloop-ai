@@ -1,0 +1,3 @@
+-- Demo records are intentionally created per authenticated account.
+-- Sign in to CareLoop and use Settings > Restore fictional demo to call
+-- public.reset_demo_workspace(). This keeps local and hosted workspaces isolated.
